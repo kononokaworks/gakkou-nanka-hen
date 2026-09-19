@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[7039,[],""]
+3:I[1155,[],""]
+:HL["/gakkou-nanka-hen/_next/static/css/b86b764b626f0b8c.css","style"]
+:HL["/gakkou-nanka-hen/_next/static/css/9cc805df12152c04.css","style"]
+0:{"rsc":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/gakkou-nanka-hen/_next/static/css/b86b764b626f0b8c.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/gakkou-nanka-hen/_next/static/css/9cc805df12152c04.css","precedence":"next"}]],["$","html",null,{"lang":"ja","children":["$","body",null,{"children":["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"zOyHmMw7m-Tm7D5rVnmAM"}
